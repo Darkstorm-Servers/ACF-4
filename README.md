@@ -2,9 +2,20 @@
 
 The Armoured Combat Framework is a [Garry's Mod][] addon which creates a balanced, realistic and fun to play combat damage system, simulating projectiles, armor and explosions, as well as engines and gearboxes.
 
-IF YOU ARE HAVING INSTALLATION PROBLEMS, PLEASE POST ON THE FACEPUNCH ACF THREAD, NOT ON GITHUB.  Please only create an issue on github if you've found a bug, or have a suggestion.  The [FP forum ACF thread][] is a good place for general ACF conversation, suggestions, and help requests.
+ACF 4.0 is built from the greatly appreciated work of https://github.com/nrlulz/ACF in ACF 2.0, but will contain many improvements down the line.
 
-When submitting a new issue or suggestion to [ACF Issues][] page, please double-check that someone else hasn't brought it up yet. Be sure to check closed issues as well.  Common suggestions that have already come up are turbos, propellers, cannon sizes, and engines.
+The end goals of ACF 4.0 are full compatibility with
+- ACF 1.0
+- XCF
+- ACF 2.0
+- ACE
+
+ACF 3.0 broke compatibility with most of the former mods mentioned above.
+
+
+This project is being developed exclusively by Darkstorm Servers, if you would like more information on our community, or to help shape the development of ACF4, please visit https://darkstorm.cc
+
+
 
 Be sure to check out the [ACF Wiki][] for more ACF related information.
   
